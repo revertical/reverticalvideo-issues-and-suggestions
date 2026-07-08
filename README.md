@@ -2,5 +2,5 @@
 Repo just for reporting issues and suggesting changes to ReverticalVideo \
 URL: https://reverticalvideo.netlify.app/ \
 Backend download (required): soon, please wait \
-Linux backend status: building... \
+Linux backend status: uploading to google drive... \
 Windows backend status: building...
